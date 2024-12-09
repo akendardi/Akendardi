@@ -6,55 +6,41 @@
 
 <h1 align="center">👋 Привет! Я Александр!</h1>
 
+
+## 🧑‍💻 Обо мне
+- 😎 Более года занимаюсь разработкой под Android
+- 🧠 Прошел набор курсов Андрея Сумина **Профессия Android-разработчик**
+- 👨‍🎓 Ученик курса Яндекс-Практикум **Android-разработчик Middle**
+- 💻 Обучаюсь в СпбГУАП на направлении **Программная инженерия**
+
 ## 🛠️ Технологии и инструменты
 - **Языки:** Kotlin, Java
 - **Фреймворки:** Jetpack Compose, Android SDK
 - **Инструменты:** Android Studio, Firebase, Git
-- **Другие навыки:** MVVM, Clean Architecture, REST API, WebSocket
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1280px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Jetpack_Compose_Icon.svg" alt="Jetpack Compose" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="80" />
+- **Другие навыки:** MVVM, Clean Architecture, REST API, WebSocket <p align="start">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1280px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" height="50" />
+  <img src="https://s.iimg.su/s/09/th_WHpJ2i063vH83Wf4R3jxSPvV1uwPlPa1NxWb3mWj.png" alt="Jetpack Compose" height="50" />
+  <img src="https://s.iimg.su/s/09/th_Bpj8N4jcGOh0LFKAfjmruFaO0cMvR0c8Zsxmzfut.png" alt="Git" height="50" />
+  <img src="https://s.iimg.su/s/09/th_hPyx61QY71RMVexdhoGcegx35KpVlfJ9QzDNqFFp.png" alt="Java" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="50" />
 </p>
-
-
----
 
 ## 📱 Мои проекты
-### 🛒 [Название проекта 1](https://github.com/your-repo/project1)
-Магазинное приложение с использованием Jetpack Compose и Firebase.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/project1-screenshot.gif" alt="Project 1 Screenshot" width="400"/>
-</p>
 
-### 📈 [Название проекта 2](https://github.com/your-repo/project2)
-Криптовалютный кошелек с поддержкой реального времени и аналитики.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/project2-screenshot.gif" alt="Project 2 Screenshot" width="400"/>
+### 📈 [CryptoWallet](https://github.com/akendardi/CryptoWallet)
+Криптовалютный кошелек с возможностью полностью погрузиться в мир криптоинвестиций. Приложение включает:
+- 💸 Покупку и продажу активов  
+- 📊 Просмотр графиков криптовалют  
+- ✏️ Редактирование профиля  
+- 🛠️ Множество других функций! <p align="start">
+  <img src="https://s.iimg.su/s/09/jG7FvCLf9mFtz7ysZejEQQdXgvNgePXzDa0paYEL.png" width="600"/>
 </p>
 
 ---
 
-## 🌱 Что я изучаю сейчас?
-- 🛠️ Углубляюсь в **Kotlin Multiplatform** для создания кросс-платформенных приложений.
-- 🚀 Изучаю **Jetpack Compose для Web**.
-
----
 
 ## 📫 Как со мной связаться?
-- **LinkedIn:** [Ваш профиль](https://linkedin.com/in/your-profile)
-- **Telegram:** [@Ваш ник](https://t.me/your-nickname)
+- **Telegram:** [@akendardi](https://t.me/akendardi)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Contact Me" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square" alt="Profile Views" />
-</p>
