@@ -17,7 +17,7 @@
 - **Языки:** Kotlin, Java
 - **Фреймворки:** Jetpack Compose, Android SDK
 - **Инструменты:** Android Studio, Firebase, Git
-- **Другие навыки:** MVVM, Clean Architecture, REST API, WebSocket <p align="start">
+- **Другие навыки:** MVVM, MVI, MVP, SOLID, DRY, KISS, Clean Architecture, REST API <p align="start">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1280px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" height="50" />
   <img src="https://s.iimg.su/s/09/th_WHpJ2i063vH83Wf4R3jxSPvV1uwPlPa1NxWb3mWj.png" alt="Jetpack Compose" height="50" />
@@ -35,7 +35,14 @@
 - ✏️ Редактирование профиля  
 - 🛠️ Множество других функций! <p align="start">
   <img src="https://s.iimg.su/s/09/FaIE8pFrNBtL4Qh3wZWzdE53JkuGmxjjUeAYkD0Q.png" width="600"/>
-</p>
+
+### 🌅 [WeatherApp](https://github.com/akendardi/WeatherApp)
+Приложение для просмотра прогноза погоды с множеством функций:
+- 🌦️ Текущая погода в вашем регионе
+- 📅 Прогноз на несколько дней
+- 📍 Возможность поиска погоды по различным городам
+- 🎨 Возможность добавлять города в избранное <p align="start">
+  <img src="https://s.iimg.su/s/09/L9jSKrSMAGKcVKyCkIwEeSjGKX6mW2FfIVra33xK.png" width="600"/>
 
 ---
 
