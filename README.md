@@ -42,7 +42,7 @@
 - 📅 Прогноз на несколько дней
 - 📍 Возможность поиска погоды по различным городам
 - 🎨 Возможность добавлять города в избранное <p align="start">
-  <img src="https://s.iimg.su/s/09/L9jSKrSMAGKcVKyCkIwEeSjGKX6mW2FfIVra33xK.png" width="600"/>
+  <img src="https://s.iimg.su/s/09/LowT1uQGaB6562Ontd5n2RnUkdg3lAFsukJF3dhj.png" width="600"/>
 
 ---
 
