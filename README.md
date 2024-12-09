@@ -10,17 +10,29 @@
 - **Языки:** Kotlin, Java
 - **Фреймворки:** Jetpack Compose, Android SDK
 - **Инструменты:** Android Studio, Firebase, Git
-- **Другие навыки:** MVVM, Clean Architecture, REST API, WebSocket
+- **Другие навыки:** MVVM, MVI, MVP, SOLID, DRY, KISS, Clean Architecture, REST API
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1280px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Jetpack_Compose_Icon.svg" alt="Jetpack Compose" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="80" />
-</p>
+### 🛠️ Основные языки
+- **Kotlin** ![Kotlin](https://img.shields.io/badge/Kotlin-0075D6?style=for-the-badge&logo=kotlin&logoColor=white)
+- **Java** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+### 📱 Инструменты разработки
+- **Android Studio**  
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+- **Jetpack Compose**  
+  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
+### 📂 Работа с данными
+- **Room Database**  
+  ![Room](https://img.shields.io/badge/Room-FFCA28?style=for-the-badge&logo=sqlite&logoColor=white)
+- **Firebase**  
+  ![Firebase](https://img.shields.io/badge/Firebase-FF6D00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🌐 API
+- **Retrofit**  
+  ![Retrofit](https://img.shields.io/badge/Retrofit-232F3E?style=for-the-badge&logo=retrofit&logoColor=white)
+- **Coroutines**  
+  ![Coroutines](https://img.shields.io/badge/Coroutines-FF5722?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
