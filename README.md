@@ -34,7 +34,7 @@
 - 📊 Просмотр графиков криптовалют  
 - ✏️ Редактирование профиля  
 - 🛠️ Множество других функций! <p align="start">
-  <img src="https://s.iimg.su/s/09/jG7FvCLf9mFtz7ysZejEQQdXgvNgePXzDa0paYEL.png" width="600"/>
+  <img src="https://s.iimg.su/s/09/FaIE8pFrNBtL4Qh3wZWzdE53JkuGmxjjUeAYkD0Q.png" width="600"/>
 </p>
 
 ---
