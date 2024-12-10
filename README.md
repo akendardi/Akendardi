@@ -50,4 +50,5 @@
 ## 📫 Как со мной связаться?
 - **Telegram:** [@akendardi](https://t.me/akendardi)
 
-
+---
+[![wakatime](https://wakatime.com/badge/user/018d4579-49fe-4fb1-adc1-daf11ce9b3ae.svg)](https://wakatime.com/@018d4579-49fe-4fb1-adc1-daf11ce9b3ae)
